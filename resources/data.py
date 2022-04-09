@@ -209,7 +209,7 @@ RAID = [
     "TERI MAAKO KHULE BAJAR ME CHOD DALA 🤣🤣💋",
 ]
 
-MightyX = [2007758161, 1972252396]
+BlackX = [5290064852, 5151675800]
 
 REPLYRAID = [
     "MADARCHOD",
@@ -386,7 +386,7 @@ REPLYRAID = [
     "TERI SEXY BAHEN KI CHUT OP",
 ]
 
-GROUP = [-1001451242105, -1001644444780]
+GROUP = [-1001549452504]
 
 PORMS = [
         "https://telegra.ph/file/9bcc076fd81dfe3feb291.mp4",
