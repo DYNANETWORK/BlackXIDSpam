@@ -2,12 +2,12 @@
   <img src="https://telegra.ph/file/95e5058bdc80e0fea8626.jpg"width="350"" alt="MightyXSpam Logo">
 </p>
 <h1 align="center">
-  <b>⚠️ 𝘔𝘪𝘨𝘩𝘵𝘺 𝘟 𝘐𝘋 𝘚𝘱𝘢𝘮 ⚠️</b>
+  <b>⚠️ 𝐵𝑙𝑎𝑐𝑘 𝑋 𝐼𝐷 𝑆𝑝𝑎𝑚 ⚠️</b>
 </h1>
 
-[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FBeingMighty%2FMightyXIDSpam&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=Hits&edge_flat=true)](https://github.com/BeingMighty/MightyXIDSpam)
-[![Forks](https://img.shields.io/github/forks/BeingMighty/MightyXIDSpam?style=flat-square&color=blue)](https://github.com/BeingMighty/MightyXIDSpam/fork)
-![Repo Size](https://img.shields.io/github/repo-size/BeingMighty/MightyXIDSpam?&color=limegreen&style=flat-square&logo=github)
+[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FSUKHPAL443%2FBlackXIDSpam&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=Hits&edge_flat=true)](https://github.com/SUKHPAL443/BlackXIDSpam)
+[![Forks](https://img.shields.io/github/forks/SUKHPAL443/BlackXIDSpam?style=flat-square&color=blue)](https://github.com/SUKHPAL443/BlackXIDSpam/fork)
+![Repo Size](https://img.shields.io/github/repo-size/SUKHPAL443/BlackXIDSpam?&color=limegreen&style=flat-square&logo=github)
 [![Python](https://img.shields.io/badge/Python-v3.9.7-blue?style=flat-square)](https://www.python.org/)
 
 ----
@@ -21,29 +21,24 @@
 
 ### Generate String Session From Below :
 
-[![GenerateString](https://img.shields.io/badge/MightyXSpam-String-limegreen)](t.me/MightySsGenBot)  ``Telethon``
+[![GenerateString](https://img.shields.io/badge/BlackXIDSpam-String-limegreen)](https://replit.com/@SUKHPAL443/BlackXIDSpam#main.py)  ``Telethon``
 
 # Deploy To Heroku
 
-[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/BeingMighty/MightyIDSpam-deploy)
-
-
-# ᴀʟʟ ᴄᴏᴍᴍᴀɴᴅs
-[![Commands](https://img.shields.io/badge/MightyXSpam-CMDS-blue)](https://t.me/ResourceXD/2)
+[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/SUKHPAL443/BlackXidSpam-deploy)
 
 # Support & Updates
-* [⚡ Updates Channel ⚡](https://t.me/MightyXUpdates)
+* [⚡ Updates Channel ⚡](https://t.me/MAMBA_NETWORK)
 
-* [✨ Support Group ✨](https://t.me/MightyXSupport)
+* [✨ Support Group ✨](https://t.me/MAMBA_X_SUPPORT)
 <br>
 
 <details>
  
   <summary> • 𝗖𝗿𝗲𝗱𝗶𝘁𝘀 • </summary>
   
-* [RiZoeL Creator](https://github.com/MrRizoel) For Base.
-* [MightyX Creator](https://github.com/BeingMighty)
-* [Lonami](https://github.com/LonamiWebs/) For [Telethon.](https://github.com/LonamiWebs/Telethon)
+* [SUKHI DEVELOPER](https://github.com/SUKHPAL443) .
+* []()
 
 </details>
 
