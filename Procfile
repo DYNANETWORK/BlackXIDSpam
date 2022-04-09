@@ -1,1 +1,1 @@
-Mig: python -m MightyXSpam
+Bla: python -m BlackXSpam
