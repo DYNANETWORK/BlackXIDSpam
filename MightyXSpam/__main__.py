@@ -1,4 +1,4 @@
-# MightyXSpam
+# blackmamba
 
 import asyncio
 import sys
