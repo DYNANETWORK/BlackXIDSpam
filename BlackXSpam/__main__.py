@@ -5,16 +5,16 @@ import sys
 from sys import argv
 import glob
 from pathlib import Path
-from MightyXSpam.utils import load_plugins
+from BlackXSpam.utils import load_plugins
 import logging
 from telethon import events
-from . import Mig, Mig2, Mig3, Mig4, Mig5 , Mig6, Mig7, Mig8, Mig9, Mig10, Mig11, Mig12, Mig13, Mig14, Mig15, Mig16, Mig17, Mig18, Mig19, Mig20, Mig21, Mig22, Mig23, Mig24, Mig25, Mig26, Mig27, Mig28, Mig29, Mig30, Mig31, Mig32, Mig33, Mig34, Mig35, Mig36, Mig37, Mig38, Mig39, Mig40
+from . import Bla, Bla2, Bla3, Bla4, Bla5 , Bla6, Bla7, Bla8, Bla9, Bla10, Bla11, Bla12, Bla13, Bla14, Bla15, Bla16, Bla17, Bla18, Bla19, Bla20, Bla21, Bla22, Bla23, Bla24, Bla25, Bla26, Bla27, Bla28, Bla29, Bla30, Bla31, Bla32, Bla33, Bla34, Bla35, Bla36, Bla37, Bla38, Bla39, Bla40
 
 logging.basicConfig(format='[%(levelname) 5s/%(asctime)s] %(name)s: %(message)s',
                     level=logging.WARNING)
 
 
-path = "MightyXSpam/plugins/*.py"
+path = "BlackXSpam/plugins/*.py"
 files = glob.glob(path)
 for name in files:
     with open(name) as a:
@@ -22,328 +22,328 @@ for name in files:
         plugin_name = patt.stem
         load_plugins(plugin_name.replace(".py", ""))
 
-print("Mighty X Spam Successfully Deployed !!")
-print("Enjoy! Do Visit @MightyXSupport")
+print("Black X Spam Successfully Deployed !!")
+print("Enjoy! Do Visit @MAMBA_NETWORK")
 
 if len(argv) not in (1, 3, 4):
     try:
-        Mig.disconnect()
+        Bla.disconnect()
     except Exception as e:
         pass
     try:
-        Mig2.disconnect()
+        Bla2.disconnect()
     except Exception as e:
         pass
     try:
-        Mig3.disconnect()
+        Bla3.disconnect()
     except Exception as e:
         pass
     try:
-        Mig4.disconnect()
+        Bla4.disconnect()
     except Exception as e:
         pass
     try:
-        Mig5.disconnect()
+        Bla5.disconnect()
     except Exception as e:
         pass
     try:
-        Mig6.disconnect()
+        Bla6.disconnect()
     except Exception as e:
         pass
     try:
-        Mig7.disconnect()
+        Bla7.disconnect()
     except Exception as e:
         pass
     try:
-        Mig8.disconnect()
+        Bla8.disconnect()
     except Exception as e:
         pass
     try:
-        Mig9.disconnect()
+        Bla9.disconnect()
     except Exception as e:
         pass
     try:
-        Mig10.disconnect()
+        Bla10.disconnect()
     except Exception as e:
         pass
     try:
-        Mig11.disconnect()
+        Bla11.disconnect()
     except Exception as e:
         pass
     try:
-        Mig12.disconnect()
+        Bla12.disconnect()
     except Exception as e:
         pass
     try:
-        Mig13.disconnect()
+        Bla13.disconnect()
     except Exception as e:
         pass
     try:
-        Mig14.disconnect()
+        Bla14.disconnect()
     except Exception as e:
         pass
     try:
-        Mig15.disconnect()
+        Bla15.disconnect()
     except Exception as e:
         pass
     try:
-        Mig16.disconnect()
+        Bla16.disconnect()
     except Exception as e:
         pass
     try:
-        Mig17.disconnect()
+        Bla17.disconnect()
     except Exception as e:
         pass
     try:
-        Mig18.disconnect()
+        Bla18.disconnect()
     except Exception as e:
         pass
     try:
-        Mig19.disconnect()
+        Bla19.disconnect()
     except Exception as e:
         pass
     try:
-        Mig20.disconnect()
+        Bla20.disconnect()
     except Exception as e:
         pass
     try:
-        Mig21.disconnect()
+        Bla21.disconnect()
     except Exception as e:
         pass
     try:
-        Mig22.disconnect()
+        Bla22.disconnect()
     except Exception as e:
         pass
     try:
-        Mig23.disconnect()
+        Bla23.disconnect()
     except Exception as e:
         pass
     try:
-        Mig24.disconnect()
+        Bla24.disconnect()
     except Exception as e:
         pass
     try:
-        Mig25.disconnect()
+        Bla25.disconnect()
     except Exception as e:
         pass
     try:
-        Mig26.disconnect()
+        Bla26.disconnect()
     except Exception as e:
         pass
     try:
-        Mig27.disconnect()
+        Bla27.disconnect()
     except Exception as e:
         pass
     try:
-        Mig28.disconnect()
+        Bla28.disconnect()
     except Exception as e:
         pass
     try:
-        Mig29.disconnect()
+        Bla29.disconnect()
     except Exception as e:
         pass
     try:
-        Mig30.disconnect()
+        Bla30.disconnect()
     except Exception as e:
         pass
     try:
-        Mig31.disconnect()
+        Bla31.disconnect()
     except Exception as e:
         pass
     try:
-        Mig32.disconnect()
+        Bla32.disconnect()
     except Exception as e:
         pass
     try:
-        Mig33.disconnect()
+        Bla33.disconnect()
     except Exception as e:
         pass
     try:
-        Mig34.disconnect()
+        Bla34.disconnect()
     except Exception as e:
         pass
     try:
-        Mig35.disconnect()
+        Bla35.disconnect()
     except Exception as e:
         pass
     try:
-        Mig36.disconnect()
+        Bla36.disconnect()
     except Exception as e:
         pass
     try:
-        Mig37.disconnect()
+        Bla37.disconnect()
     except Exception as e:
         pass
     try:
-        Mig38.disconnect()
+        Bla38.disconnect()
     except Exception as e:
         pass
     try:
-        Mig39.disconnect()
+        Bla39.disconnect()
     except Exception as e:
         pass
     try:
-        Mig40.disconnect()
+        Bla40.disconnect()
     except Exception as e:
         pass
 else:
     try:
-        Mig.run_until_disconnected()
+        Bla.run_until_disconnected()
     except Exception as e:
         pass
     try:
-        Mig2.run_until_disconnected()
+        Bla2.run_until_disconnected()
     except Exception as e:
         pass
     try:
-        Mig3.run_until_disconnected()
+        Bla3.run_until_disconnected()
     except Exception as e:
         pass
     try:
-        Mig4.run_until_disconnected()
+        Bla4.run_until_disconnected()
     except Exception as e:
         pass
     try:
-        Mig5.run_until_disconnected()
+        Bla5.run_until_disconnected()
     except Exception as e:
         pass
     try:
-        Mig6.run_until_disconnected()
+        Bla6.run_until_disconnected()
     except Exception as e:
         pass
     try:
-        Mig7.run_until_disconnected()
+        Bla7.run_until_disconnected()
     except Exception as e:
         pass
     try:
-        Mig8.run_until_disconnected()
+        Bla8.run_until_disconnected()
     except Exception as e:
         pass
     try:
-        Mig9.run_until_disconnected()
+        Bla9.run_until_disconnected()
     except Exception as e:
         pass
     try:
-        Mig10.run_until_disconnected()
+        Bla10.run_until_disconnected()
     except Exception as e:
         pass
     try:
-        Mig11.run_until_disconnected()
+        Bla11.run_until_disconnected()
     except Exception as e:
         pass
     try:
-        Mig12.run_until_disconnected()
+        Bla12.run_until_disconnected()
     except Exception as e:
         pass
     try:
-        Mig13.run_until_disconnected()
+        Bla13.run_until_disconnected()
     except Exception as e:
         pass
     try:
-        Mig14.run_until_disconnected()
+        Bla14.run_until_disconnected()
     except Exception as e:
         pass
     try:
-        Mig15.run_until_disconnected()
+        Bla15.run_until_disconnected()
     except Exception as e:
         pass
     try:
-        Mig16.run_until_disconnected()
+        Bla16.run_until_disconnected()
     except Exception as e:
         pass
     try:
-        Mig17.run_until_disconnected()
+        Bla17.run_until_disconnected()
     except Exception as e:
         pass
     try:
-        Mig18.run_until_disconnected()
+        Bla18.run_until_disconnected()
     except Exception as e:
         pass
     try:
-        Mig19.run_until_disconnected()
+        Bla19.run_until_disconnected()
     except Exception as e:
         pass
     try:
-        Mig20.run_until_disconnected()
+        Bla20.run_until_disconnected()
     except Exception as e:
         pass
     try:
-        Mig21.run_until_disconnected()
+        Bla21.run_until_disconnected()
     except Exception as e:
         pass
     try:
-        Mig22.run_until_disconnected()
+        Bla22.run_until_disconnected()
     except Exception as e:
         pass
     try:
-        Mig23.run_until_disconnected()
+        Bla23.run_until_disconnected()
     except Exception as e:
         pass
     try:
-        Mig24.run_until_disconnected()
+        Bla24.run_until_disconnected()
     except Exception as e:
         pass
     try:
-        Mig25.run_until_disconnected()
+        Bla25.run_until_disconnected()
     except Exception as e:
         pass
     try:
-        Mig26.run_until_disconnected()
+        Bla26.run_until_disconnected()
     except Exception as e:
         pass
     try:
-        Mig27.run_until_disconnected()
+        Bla27.run_until_disconnected()
     except Exception as e:
         pass
     try:
-        Mig28.run_until_disconnected()
+        Bla28.run_until_disconnected()
     except Exception as e:
         pass
     try:
-        Mig29.run_until_disconnected()
+        Bla29.run_until_disconnected()
     except Exception as e:
         pass
     try:
-        Mig30.run_until_disconnected()
+        Bla30.run_until_disconnected()
     except Exception as e:
         pass
     try:
-        Mig31.run_until_disconnected()
+        Bla31.run_until_disconnected()
     except Exception as e:
         pass
     try:
-        Mig32.run_until_disconnected()
+        Bla32.run_until_disconnected()
     except Exception as e:
         pass
     try:
-        Mig33.run_until_disconnected()
+        Bla33.run_until_disconnected()
     except Exception as e:
         pass
     try:
-        Mig34.run_until_disconnected()
+        Bla34.run_until_disconnected()
     except Exception as e:
         pass
     try:
-        Mig35.run_until_disconnected()
+        Bla35.run_until_disconnected()
     except Exception as e:
         pass
     try:
-        Mig36.run_until_disconnected()
+        Bla36.run_until_disconnected()
     except Exception as e:
         pass
     try:
-        Mig37.run_until_disconnected()
+        Bla37.run_until_disconnected()
     except Exception as e:
         pass
     try:
-        Mig38.run_until_disconnected()
+        Bla38.run_until_disconnected()
     except Exception as e:
         pass
     try:
-        Mig39.run_until_disconnected()
+        Bla39.run_until_disconnected()
     except Exception as e:
         pass
     try:
-        Mig40.run_until_disconnected()
+        Bla40.run_until_disconnected()
     except Exception as e:
         pass
