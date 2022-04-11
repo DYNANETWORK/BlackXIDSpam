@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://telegra.ph/file/95e5058bdc80e0fea8626.jpg"width="350"" alt="MightyXSpam Logo">
+  <img src="https://telegra.ph/file/95e5058bdc80e0fea8626.jpg"width="350"" alt="BlackXSpam Logo">
 </p>
 <h1 align="center">
   <b>⚠️ 𝐵𝑙𝑎𝑐𝑘 𝑋 𝐼𝐷 𝑆𝑝𝑎𝑚 ⚠️</b>
@@ -25,7 +25,7 @@
 
 # Deploy To Heroku
 
-[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/SUKHPAL443/BlackXidSpam-deploy)
+[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/SUKHPAL443/BlackXIDSpam-deploy)
 
 # Support & Updates
 * [⚡ Updates Channel ⚡](https://t.me/MAMBA_NETWORK)
