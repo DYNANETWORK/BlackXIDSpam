@@ -1,6 +1,6 @@
 from sqlalchemy import Column, String
 
-from MightyXSpam.plugins.sql_helper import BASE, SESSION
+from BlackXSpam.plugins.sql_helper import BASE, SESSION
 
 
 class ECHOSQL(BASE):
