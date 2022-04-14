@@ -3,7 +3,7 @@ import asyncio
 import sys
 import git
 from telethon import events
-from .. import Mig, DEV, HEROKU_APP_NAME, HEROKU_API_KEY
+from .. import Bla, DEV, HEROKU_APP_NAME, HEROKU_API_KEY
 from .. import CMD_HNDLR as hl
 
 import heroku3
@@ -14,11 +14,11 @@ heroku_api = "https://api.heroku.com"
 sudousers = os.environ.get("SUDO_USERS", None)
 
 
-@Mig.on(events.NewMessage(incoming=True, pattern=r"\%saddsudo(?: |$)(.*)" % hl))
+@Bla.on(events.NewMessage(incoming=True, pattern=r"\%saddsudo(?: |$)(.*)" % hl))
 async def tb(event):
     if event.sender_id in DEV:
         ok = await event.reply("Adding User As Sudo...")
-        mighty = "SUDO_USER"
+        black = "SUDO_USER"
         if HEROKU_APP_NAME is not None:
             app = Heroku.app(HEROKU_APP_NAME)
         else:
