@@ -37,7 +37,7 @@
  
   <summary> • 𝗖𝗿𝗲𝗱𝗶𝘁𝘀 • </summary>
   
-* [![SUKHI DEVELOPER](https://github.com/SUKHPAL443)] .
+* [SUKHI DEVELOPER](https://github.com/SUKHPAL443) .
 * []()
 
 </details>
