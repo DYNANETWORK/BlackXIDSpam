@@ -2,212 +2,212 @@ import asyncio
 import os
 import sys
 from telethon import events
-from MightyXSpam import Mig, Mig2, Mig3, Mig4, Mig5 , Mig6, Mig7, Mig8, Mig9, Mig10, Mig11, Mig12, Mig13, Mig14, Mig15, Mig16, Mig17, Mig18, Mig19, Mig20, Mig21, Mig22, Mig23, Mig24, Mig25, Mig26, Mig27, Mig28, Mig29, Mig30, Mig31, Mig32, Mig33, Mig34, Mig35, Mig36, Mig37, Mig38, Mig39, Mig40, DEV
+from BlackXSpam import Bla, Bla2, Bla3, Bla4, Bla5 , Bla6, Bla7, Bla8, Bla9, Bla10, Bla11, Bla12, Bla13, Bla14, Bla15, Bla16, Bla17, Bla18, Bla19, Bla20, Bla21, Bla22, Bla23, Bla24, Bla25, Bla26, Bla27, Bla28, Bla29, Bla30, Bla31, Bla32, Bla33, Bla34, Bla35, Bla36, Bla37, Bla38, Bla39, Bla40, DEV
 from .. import CMD_HNDLR as hl
 
 
-@Mig.on(events.NewMessage(incoming=True, pattern=r"\%supdate(?: |$)(.*)" % hl))
-@Mig2.on(events.NewMessage(incoming=True, pattern=r"\%supdate(?: |$)(.*)" % hl))
-@Mig3.on(events.NewMessage(incoming=True, pattern=r"\%supdate(?: |$)(.*)" % hl))
-@Mig4.on(events.NewMessage(incoming=True, pattern=r"\%supdate(?: |$)(.*)" % hl))
-@Mig5.on(events.NewMessage(incoming=True, pattern=r"\%supdate(?: |$)(.*)" % hl))
-@Mig6.on(events.NewMessage(incoming=True, pattern=r"\%supdate(?: |$)(.*)" % hl))
-@Mig7.on(events.NewMessage(incoming=True, pattern=r"\%supdate(?: |$)(.*)" % hl))
-@Mig8.on(events.NewMessage(incoming=True, pattern=r"\%supdate(?: |$)(.*)" % hl))
-@Mig9.on(events.NewMessage(incoming=True, pattern=r"\%supdate(?: |$)(.*)" % hl))
-@Mig10.on(events.NewMessage(incoming=True, pattern=r"\%supdate(?: |$)(.*)" % hl))
-@Mig11.on(events.NewMessage(incoming=True, pattern=r"\%supdate(?: |$)(.*)" % hl))
-@Mig12.on(events.NewMessage(incoming=True, pattern=r"\%supdate(?: |$)(.*)" % hl))
-@Mig13.on(events.NewMessage(incoming=True, pattern=r"\%supdate(?: |$)(.*)" % hl))
-@Mig14.on(events.NewMessage(incoming=True, pattern=r"\%supdate(?: |$)(.*)" % hl))
-@Mig15.on(events.NewMessage(incoming=True, pattern=r"\%supdate(?: |$)(.*)" % hl))
-@Mig16.on(events.NewMessage(incoming=True, pattern=r"\%supdate(?: |$)(.*)" % hl))
-@Mig17.on(events.NewMessage(incoming=True, pattern=r"\%supdate(?: |$)(.*)" % hl))
-@Mig18.on(events.NewMessage(incoming=True, pattern=r"\%supdate(?: |$)(.*)" % hl))
-@Mig19.on(events.NewMessage(incoming=True, pattern=r"\%supdate(?: |$)(.*)" % hl))
-@Mig20.on(events.NewMessage(incoming=True, pattern=r"\%supdate(?: |$)(.*)" % hl))
-@Mig21.on(events.NewMessage(incoming=True, pattern=r"\%supdate(?: |$)(.*)" % hl))
-@Mig22.on(events.NewMessage(incoming=True, pattern=r"\%supdate(?: |$)(.*)" % hl))
-@Mig23.on(events.NewMessage(incoming=True, pattern=r"\%supdate(?: |$)(.*)" % hl))
-@Mig24.on(events.NewMessage(incoming=True, pattern=r"\%supdate(?: |$)(.*)" % hl))
-@Mig25.on(events.NewMessage(incoming=True, pattern=r"\%supdate(?: |$)(.*)" % hl))
-@Mig26.on(events.NewMessage(incoming=True, pattern=r"\%supdate(?: |$)(.*)" % hl))
-@Mig27.on(events.NewMessage(incoming=True, pattern=r"\%supdate(?: |$)(.*)" % hl))
-@Mig28.on(events.NewMessage(incoming=True, pattern=r"\%supdate(?: |$)(.*)" % hl))
-@Mig29.on(events.NewMessage(incoming=True, pattern=r"\%supdate(?: |$)(.*)" % hl))
-@Mig30.on(events.NewMessage(incoming=True, pattern=r"\%supdate(?: |$)(.*)" % hl))
-@Mig31.on(events.NewMessage(incoming=True, pattern=r"\%supdate(?: |$)(.*)" % hl))
-@Mig32.on(events.NewMessage(incoming=True, pattern=r"\%supdate(?: |$)(.*)" % hl))
-@Mig33.on(events.NewMessage(incoming=True, pattern=r"\%supdate(?: |$)(.*)" % hl))
-@Mig34.on(events.NewMessage(incoming=True, pattern=r"\%supdate(?: |$)(.*)" % hl))
-@Mig35.on(events.NewMessage(incoming=True, pattern=r"\%supdate(?: |$)(.*)" % hl))
-@Mig36.on(events.NewMessage(incoming=True, pattern=r"\%supdate(?: |$)(.*)" % hl))
-@Mig37.on(events.NewMessage(incoming=True, pattern=r"\%supdate(?: |$)(.*)" % hl))
-@Mig38.on(events.NewMessage(incoming=True, pattern=r"\%supdate(?: |$)(.*)" % hl))
-@Mig39.on(events.NewMessage(incoming=True, pattern=r"\%supdate(?: |$)(.*)" % hl))
-@Mig40.on(events.NewMessage(incoming=True, pattern=r"\%supdate(?: |$)(.*)" % hl))
+@Bla.on(events.NewMessage(incoming=True, pattern=r"\%supdate(?: |$)(.*)" % hl))
+@Bla2.on(events.NewMessage(incoming=True, pattern=r"\%supdate(?: |$)(.*)" % hl))
+@Bla3.on(events.NewMessage(incoming=True, pattern=r"\%supdate(?: |$)(.*)" % hl))
+@Bla4.on(events.NewMessage(incoming=True, pattern=r"\%supdate(?: |$)(.*)" % hl))
+@Bla5.on(events.NewMessage(incoming=True, pattern=r"\%supdate(?: |$)(.*)" % hl))
+@Bla6.on(events.NewMessage(incoming=True, pattern=r"\%supdate(?: |$)(.*)" % hl))
+@Bla7.on(events.NewMessage(incoming=True, pattern=r"\%supdate(?: |$)(.*)" % hl))
+@Bla8.on(events.NewMessage(incoming=True, pattern=r"\%supdate(?: |$)(.*)" % hl))
+@Bla9.on(events.NewMessage(incoming=True, pattern=r"\%supdate(?: |$)(.*)" % hl))
+@Bla10.on(events.NewMessage(incoming=True, pattern=r"\%supdate(?: |$)(.*)" % hl))
+@Bla11.on(events.NewMessage(incoming=True, pattern=r"\%supdate(?: |$)(.*)" % hl))
+@Bla12.on(events.NewMessage(incoming=True, pattern=r"\%supdate(?: |$)(.*)" % hl))
+@Bla13.on(events.NewMessage(incoming=True, pattern=r"\%supdate(?: |$)(.*)" % hl))
+@Bla14.on(events.NewMessage(incoming=True, pattern=r"\%supdate(?: |$)(.*)" % hl))
+@Bla15.on(events.NewMessage(incoming=True, pattern=r"\%supdate(?: |$)(.*)" % hl))
+@Bla16.on(events.NewMessage(incoming=True, pattern=r"\%supdate(?: |$)(.*)" % hl))
+@Bla17.on(events.NewMessage(incoming=True, pattern=r"\%supdate(?: |$)(.*)" % hl))
+@Bla18.on(events.NewMessage(incoming=True, pattern=r"\%supdate(?: |$)(.*)" % hl))
+@Bla19.on(events.NewMessage(incoming=True, pattern=r"\%supdate(?: |$)(.*)" % hl))
+@Bla20.on(events.NewMessage(incoming=True, pattern=r"\%supdate(?: |$)(.*)" % hl))
+@Bla21.on(events.NewMessage(incoming=True, pattern=r"\%supdate(?: |$)(.*)" % hl))
+@Bla22.on(events.NewMessage(incoming=True, pattern=r"\%supdate(?: |$)(.*)" % hl))
+@Bla23.on(events.NewMessage(incoming=True, pattern=r"\%supdate(?: |$)(.*)" % hl))
+@Bla24.on(events.NewMessage(incoming=True, pattern=r"\%supdate(?: |$)(.*)" % hl))
+@Bla25.on(events.NewMessage(incoming=True, pattern=r"\%supdate(?: |$)(.*)" % hl))
+@Bla26.on(events.NewMessage(incoming=True, pattern=r"\%supdate(?: |$)(.*)" % hl))
+@Bla27.on(events.NewMessage(incoming=True, pattern=r"\%supdate(?: |$)(.*)" % hl))
+@Bla28.on(events.NewMessage(incoming=True, pattern=r"\%supdate(?: |$)(.*)" % hl))
+@Bla29.on(events.NewMessage(incoming=True, pattern=r"\%supdate(?: |$)(.*)" % hl))
+@Bla30.on(events.NewMessage(incoming=True, pattern=r"\%supdate(?: |$)(.*)" % hl))
+@Bla31.on(events.NewMessage(incoming=True, pattern=r"\%supdate(?: |$)(.*)" % hl))
+@Bla32.on(events.NewMessage(incoming=True, pattern=r"\%supdate(?: |$)(.*)" % hl))
+@Bla33.on(events.NewMessage(incoming=True, pattern=r"\%supdate(?: |$)(.*)" % hl))
+@Bla34.on(events.NewMessage(incoming=True, pattern=r"\%supdate(?: |$)(.*)" % hl))
+@Bla35.on(events.NewMessage(incoming=True, pattern=r"\%supdate(?: |$)(.*)" % hl))
+@Bla36.on(events.NewMessage(incoming=True, pattern=r"\%supdate(?: |$)(.*)" % hl))
+@Bla37.on(events.NewMessage(incoming=True, pattern=r"\%supdate(?: |$)(.*)" % hl))
+@Bla38.on(events.NewMessage(incoming=True, pattern=r"\%supdate(?: |$)(.*)" % hl))
+@Bla39.on(events.NewMessage(incoming=True, pattern=r"\%supdate(?: |$)(.*)" % hl))
+@Bla40.on(events.NewMessage(incoming=True, pattern=r"\%supdate(?: |$)(.*)" % hl))
 async def update(e):
     if e.sender_id in DEV:
-        text = "**Updating Your MightyXSpamBots**\n`Please Wait... 🌚`"
+        text = "**Updating Your BlackXSpamBots**\n`Please Wait... 🌚`"
         await e.reply(text, link_preview=None)
         try:
-            await Mig.disconnect()
+            await Bla.disconnect()
         except Exception:
             pass
         try:
-            await Mig2.disconnect()
+            await Bla2.disconnect()
         except Exception:
             pass
         try:
-            await Mig3.disconnect()
+            await Bla3.disconnect()
         except Exception:
             pass
         try:
-            await Mig4.disconnect()
+            await Bla4.disconnect()
         except Exception:
             pass
         try:
-            await Mig5.disconnect()
+            await Bla5.disconnect()
         except Exception:
             pass
         try:
-            await Mig6.disconnect()
+            await Bla6.disconnect()
         except Exception:
             pass
         try:
-            await Mig7.disconnect()
+            await Bla7.disconnect()
         except Exception:
             pass
         try:
-            await Mig8.disconnect()
+            await Bla8.disconnect()
         except Exception:
             pass
         try:
-            await Mig9.disconnect()
+            await Bla9.disconnect()
         except Exception:
             pass
         try:
-            await Mig10.disconnect()
+            await Bla10.disconnect()
         except Exception:
             pass
         try:
-            await Mig11.disconnect()
+            await Bla11.disconnect()
         except Exception:
             pass
         try:
-            await Mig12.disconnect()
+            await Bla12.disconnect()
         except Exception:
             pass
         try:
-            await Mig13.disconnect()
+            await Bla13.disconnect()
         except Exception:
             pass
         try:
-            await Mig14.disconnect()
+            await Bla14.disconnect()
         except Exception:
             pass
         try:
-            await Mig15.disconnect()
+            await Bla15.disconnect()
         except Exception:
             pass
         try:
-            await Mig16.disconnect()
+            await Bla16.disconnect()
         except Exception:
             pass
         try:
-            await Mig17.disconnect()
+            await Bla17.disconnect()
         except Exception:
             pass
         try:
-            await Mig18.disconnect()
+            await Bla18.disconnect()
         except Exception:
             pass
         try:
-            await Mig19.disconnect()
+            await Bla19.disconnect()
         except Exception:
             pass
         try:
-            await Mig20.disconnect()
+            await Bla20.disconnect()
         except Exception:
             pass
         try:
-            await Mig21.disconnect()
+            await Bla21.disconnect()
         except Exception:
             pass
         try:
-            await Mig22.disconnect()
+            await Bla22.disconnect()
         except Exception:
             pass
         try:
-            await Mig23.disconnect()
+            await Bla23.disconnect()
         except Exception:
             pass
         try:
-            await Mig24.disconnect()
+            await Bla24.disconnect()
         except Exception:
             pass
         try:
-            await Mig25.disconnect()
+            await Bla25.disconnect()
         except Exception:
             pass
         try:
-            await Mig26.disconnect()
+            await Bla26.disconnect()
         except Exception:
             pass
         try:
-            await Mig27.disconnect()
+            await Bla27.disconnect()
         except Exception:
             pass
         try:
-            await Mig28.disconnect()
+            await Bla28.disconnect()
         except Exception:
             pass
         try:
-            await Mig29.disconnect()
+            await Bla29.disconnect()
         except Exception:
             pass
         try:
-            await Mig30.disconnect()
+            await Bla30.disconnect()
         except Exception:
             pass
         try:
-            await Mig31.disconnect()
+            await Bla31.disconnect()
         except Exception:
             pass
         try:
-            await Mig32.disconnect()
+            await Bla32.disconnect()
         except Exception:
             pass
         try:
-            await Mig33.disconnect()
+            await Bla33.disconnect()
         except Exception:
             pass
         try:
-            await Mig34.disconnect()
+            await Bla34.disconnect()
         except Exception:
             pass
         try:
-            await Mig35.disconnect()
+            await Bla35.disconnect()
         except Exception:
             pass
         try:
-            await Mig36.disconnect()
+            await Bla36.disconnect()
         except Exception:
             pass
         try:
-            await Mig37.disconnect()
+            await Bla37.disconnect()
         except Exception:
             pass
         try:
-            await Mig38.disconnect()
+            await Bla38.disconnect()
         except Exception:
             pass
         try:
-            await Mig39.disconnect()
+            await Bla39.disconnect()
         except Exception:
             pass
         try:
-            await Mig40.disconnect()
+            await Bla40.disconnect()
         except Exception:
             pass
         os.execl(sys.executable, sys.executable, *sys.argv)
