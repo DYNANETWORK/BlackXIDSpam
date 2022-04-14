@@ -25,7 +25,7 @@
 
 # Deploy To Heroku
 
-[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/SUKHPAL443/BlackXIDSpam-deploy)
+[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/SUKHPAL443/BlackXIDSpam)
 
 # Support & Updates
 * [⚡ Updates Channel ⚡](https://t.me/MAMBA_NETWORK)
